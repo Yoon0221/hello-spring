@@ -3,7 +3,6 @@ package com.example.hello_spring.service;
 
 import com.example.hello_spring.domain.Member;
 import com.example.hello_spring.repository.MemberRepository;
-import com.example.hello_spring.repository.MemoryMemberRepository;
 import java.util.List;
 import java.util.Optional;
 
